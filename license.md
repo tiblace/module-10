@@ -1,0 +1,3 @@
+# Software License
+
+Free.
